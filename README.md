@@ -40,8 +40,8 @@ are some other libraries in the "cli options parsing" space that the
       * https://docs.rs/getopts/latest/getopts/
       * https://github.com/rust-lang/getopts
 
-     This one is used by `rustc`, but usage of it in new projects is
-     disouraged:
+     *This one is used by `rustc`, but usage of it in new projects is
+     disouraged:*
       * https://github.com/rust-lang/getopts/pull/99#issuecomment-660630614
    * `pico-args`
       * https://crates.io/crates/pico-args
