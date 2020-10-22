@@ -1,6 +1,8 @@
+# getopts-long-rs
+
 This is the README.md file for the `'getopts-long-rs'` project.
 
-# Overview
+## Overview
 
 The 'getopts-long-rs' project is intended to provides a Rust library for
 parsing command line options, with a feature set inspired by Perl's
@@ -11,7 +13,7 @@ namespace](https://crates.io/crates/getopts-long) on
 [crates.io](https://crates.io/).
 
 
-# License
+## License
 
 Dual licensed: GPL-2.0-or-later OR Apache-2.0
 
