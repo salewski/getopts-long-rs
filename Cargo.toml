@@ -1,6 +1,6 @@
 [package]
 name = "getopts-long"
-version = "0.1.1-snapshot"
+version = "0.1.1"
 authors = [ "Alan D. Salewski <ads@salewski.email>" ]
 description = "Rust cli options parsing library inspired by Perl's Getopt::Long"
 license = "GPL-2.0-or-later OR Apache-2.0"
