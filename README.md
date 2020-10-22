@@ -6,7 +6,7 @@ This is the README.md file for the `'getopts-long-rs'` project.
 
 The 'getopts-long-rs' project is intended to provides a [Rust][rust-lang-org]
 library for parsing command line options, with a feature set inspired by
-Perl's [Getopt::Long][m-cpan-golong].
+[Perl][perl-org]'s [Getopt::Long][m-cpan-golong].
 
 Currently the project is just a stub, established to hold the
 ['getopts-long' namespace][crates-io-golong] on [crates.io][crates-io].
@@ -26,6 +26,7 @@ Copyright © 2020 Alan D. Salewski <ads@salewski.email>
 [NEWS]:         https://github.com/salewski/getopts-long-rs/blob/master/NEWS
 
 [m-cpan-golong]: https://metacpan.org/pod/Getopt::Long  "Getopt::Long  (metacpan.org)"
+[perl-org]:      https://www.perl.org/                  "site: www.perl.org"
 
 [crates-io]:        https://crates.io/                     "site: crates.io"
 [crates-io-golong]: https://crates.io/crates/getopts-long  "getopts-long  (crates.io)"
