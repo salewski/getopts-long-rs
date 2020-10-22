@@ -7,7 +7,7 @@ license = "GPL-2.0-or-later OR Apache-2.0"
 #homepage = "https://salewski.github.io/getopts-long-rs"
 #documentation = FIXME: add URL
 repository = "https://github.com/salewski/getops-long-rs"
-keywords = [ "getopt", "getopts", "getopt_long", "GNU-style-long-options", "POSIXLY_CORRECT" ]
+keywords = [ "getopt", "getopts", "getopt_long", "GNU-style-options", "POSIXLY_CORRECT" ]
 categories = [ "command-line-interface" ]
 edition = "2018"
 
