@@ -12,6 +12,8 @@ Currently the project is just a stub, established to hold the
 ['getopts-long' namespace][crates-io-golong] on [crates.io][crates-io].
 
 
+----
+
 ## License
 
 Dual licensed: GPL-2.0-or-later OR Apache-2.0
@@ -19,9 +21,15 @@ Dual licensed: GPL-2.0-or-later OR Apache-2.0
 Copyright © 2020 Alan D. Salewski <ads@salewski.email>
 
 
+----
+
 ## Other Rust options parsing libraries
 
-Other libraries in this space include:
+This is not an endorsement, but if you are interested in `getopts-long-rs`,
+you may be interested in one or more of the following, as well. The following
+are some other libraries in the "cli options parsing" space that the
+`getopts-long-rs` author is aware of. Despite some naming similarities, the
+`getopts-long-rs` project is not not affiliated with these other projects:
 
    * `getopt`
       * https://crates.io/crates/getopt
