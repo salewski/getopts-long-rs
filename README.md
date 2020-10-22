@@ -12,6 +12,54 @@ Currently the project is just a stub, established to hold the
 ['getopts-long' namespace][crates-io-golong] on [crates.io][crates-io].
 
 
+## Other Rust options parsing libraries
+
+Other libraries in this space include:
+
+   * `getopt`
+      * https://crates.io/crates/getopt
+      * https://docs.rs/getopt/latest/getopt/
+      * https://github.com/dragonmaus/getopt.rs
+
+   * `getopts`
+      * https://crates.io/crates/getopts
+      * https://docs.rs/getopts/latest/getopts/
+      * https://github.com/rust-lang/getopts
+     This one is used by `rustc`, but usage of it in new projects is
+     disouraged:
+      * https://github.com/rust-lang/getopts/pull/99#issuecomment-660630614
+
+   * `pico-args`
+      * https://crates.io/crates/pico-args
+      * https://docs.rs/pico-args/latest/pico_args/
+      * https://github.com/RazrFalcon/pico-args
+
+   * `argh`
+      * https://crates.io/crates/argh
+      * https://docs.rs/argh/latest/argh/
+      * https://github.com/google/argh
+
+   * `clap`
+      * https://crates.io/crates/clap
+      * https://docs.rs/clap/latest/clap/
+      * https://github.com/clap-rs/clap
+
+   * `gumdrop`
+      * https://crates.io/crates/gumdrop`
+      * https://docs.rs/gumdrop/latest/gumdrop/
+      * https://github.com/murarth/gumdrop
+
+   * `structopt`
+      * https://crates.io/crates/structopt
+      * https://docs.rs/structopt/latest/structopt/
+      * https://github.com/TeXitoi/structopt
+
+   * `getopt-long`
+      * https://crates.io/crates/getopt-long
+      * https://docs.rs/getopt-long/latest/getopt_long/
+      * https://github.com/automanyang/servant
+
+
 ## License
 
 Dual licensed: GPL-2.0-or-later OR Apache-2.0
