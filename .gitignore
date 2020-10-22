@@ -1,0 +1,9 @@
+# -*- conf-unix -*-
+
+#/target
+
+# For Rust libraries, the Cargo.lock file should not be committed to
+# the Git repo. For details on this recommendation, see:
+#     https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html
+#     https://doc.rust-lang.org/cargo/faq.html#why-do-binaries-have-cargolock-in-version-control-but-not-libraries
+Cargo.lock
