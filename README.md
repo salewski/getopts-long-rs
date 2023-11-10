@@ -29,7 +29,7 @@ This is not an endorsement, but if you are interested in `getopts-long-rs`,
 you may be interested in one or more of the following projects, as well. These
 are some other libraries in the "cli options parsing" space that the
 `getopts-long-rs` author is aware of. Despite some naming similarities, the
-`getopts-long-rs` project is not not affiliated with these other projects:
+`getopts-long-rs` project is not affiliated with these other projects:
 
    * `getopt`
       * https://crates.io/crates/getopt
