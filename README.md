@@ -56,7 +56,7 @@ are some other libraries in the "cli options parsing" space that the
       * https://docs.rs/clap/latest/clap/
       * https://github.com/clap-rs/clap
    * `gumdrop`
-      * https://crates.io/crates/gumdrop`
+      * https://crates.io/crates/gumdrop
       * https://docs.rs/gumdrop/latest/gumdrop/
       * https://github.com/murarth/gumdrop
    * `structopt`
